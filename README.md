@@ -4,7 +4,7 @@ Full stack social networking platform with group chat feature for CUHK members
 ## Try out and see what's inside CUtopia! :alien:
 
 Curious to see out what's here? Here's a link to the video demonstartion:
-[![Watch the video](https://img.youtube.com/vi/9CeGbqrpDGs/maxresdefault.jpg)](https://youtu.be/9CeGbqrpDGs)
+[![Watch the video](https://img.youtube.com/vi/9CeGbqrpDGs/hqdefault.jpg)](https://youtu.be/9CeGbqrpDGs)
 
 ### Prerequisites :triumph:
 
