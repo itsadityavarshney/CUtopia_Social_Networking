@@ -1,5 +1,5 @@
 # CUtopia_Social_Networking
-Full stack social networking platform with group chat feature
+Full stack social networking platform with group chat feature for CUHK members
 
 ## Try out and see what's inside CUtopia! :alien:
 
