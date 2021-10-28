@@ -64,8 +64,8 @@ router.post("/", async (req, res, next) => {
             host: "smtp.mailtrap.io",
             port: 2525,
             auth: {
-              user: "3038e41bb14ca1",
-              pass: "51c476e246a079"
+              user: "",
+              pass: ""
             }
         });
      
