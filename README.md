@@ -11,7 +11,7 @@ Curious to try out what's here? Follow the given instructions and you will be he
 
 Please make sure you have Node.js installed. If you have not, you can easily download it [here](https://nodejs.org/en/).
 
-## Trying out CUtopia :fireworks:
+### Trying out CUtopia :fireworks:
 
 Follow the given instructions and you will be here at CUtopia's Testing Prototype in no time!
 
@@ -45,8 +45,9 @@ Follow the given instructions and you will be here at CUtopia's Testing Prototyp
 CUtopia will make use of a wide range of major frameworks on both the client-side and server-side of our application. The frameworks are listed as follows:
 
 Front-end:
-* Pug
-* CSS -> Bootstrap
+* [Pug] (https://pugjs.org/api/getting-started.html)
+* [CSS] (https://getbootstrap.com/docs/3.4/css/)
+* [Font Awesome] (https://fontawesome.com)
 
 Back-end:
 
