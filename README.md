@@ -47,4 +47,4 @@ Back-end:
 
 
 ## Acknowledgements :pray:
-Inspired by [guide](https://www.udemy.com/course/create-a-twitter-clone-with-nodejs-socketio-and-mongodb/)
+Inspired and followed [guide](https://www.udemy.com/course/create-a-twitter-clone-with-nodejs-socketio-and-mongodb/)
