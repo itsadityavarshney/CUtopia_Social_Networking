@@ -19,7 +19,7 @@ Follow the given instructions and you will be here at CUtopia's Testing Prototyp
 
 1. Clone our Repository
 ```
-   git clone https://github.com/FlyingTwigs/CUtopia.git
+   git clone https://github.com/itsadityavarshney/CUtopia_Social_Networking.git
 ```
 
 2. Go to the server directory
