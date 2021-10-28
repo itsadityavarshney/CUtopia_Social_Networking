@@ -35,9 +35,9 @@ Follow the given instructions and you will be here at CUtopia in no time!
 CUtopia makes use of the tech stack listed as follows:
 
 Front-end:
-* [Pug] (https://pugjs.org/api/getting-started.html)
-* [CSS] (https://getbootstrap.com/docs/3.4/css/)
-* [Font Awesome] (https://fontawesome.com)
+* [Pug](https://pugjs.org/api/getting-started.html)
+* [CSS](https://getbootstrap.com/docs/3.4/css/)
+* [Font Awesome](https://fontawesome.com)
 
 Back-end:
 
