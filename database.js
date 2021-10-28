@@ -12,7 +12,7 @@ class Database {
     }
 
     connect() {
-        mongoose.connect("mongodb+srv://adi:admin@cutopiacluster.xnzpe.mongodb.net/CUtopiaDB?retryWrites=true&w=majority")
+        mongoose.connect("mongodb+srv:")
         .then(() => {
             console.log("database connection successful");
         })
