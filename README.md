@@ -15,7 +15,7 @@ Follow the given instructions and you will be here at CUtopia in no time!
 
 ### Installation
 
-1. Clone our Repository
+1. Clone this Repository
 ```
    git clone https://github.com/itsadityavarshney/CUtopia_Social_Networking.git
 ```
@@ -30,7 +30,7 @@ Follow the given instructions and you will be here at CUtopia in no time!
    npm start
 ```
 
-### Our Tech Stack :man_technologist:	
+### Tech Stack :man_technologist:	
 
 CUtopia makes use of the tech stack listed as follows:
 
